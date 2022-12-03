@@ -13,7 +13,7 @@ JobBhartee.com-smart job search and recruitment system
 ->Track status for the applied job postion.
 3)Admin:
 ->manage both Job Providers and Job seekers.
-#Tech used:
+# Tech used:
 FrontEnd: HTML,CSS,JS.
 BackEnd:  Django-Python,NLP for Resume Parsing.
 DataBase: SQLite
